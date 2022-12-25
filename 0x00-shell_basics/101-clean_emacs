@@ -1,2 +1,2 @@
 #!/bin/bash
-kdir {welcome/,welcome/to/,welcome/to/school}
+rm  *~
